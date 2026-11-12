@@ -9,7 +9,7 @@
 rule find_daxin
 {					
 	meta:
-		author = "Saulo 'Sal' Ortiz, Sr. Cyber Forensics Analyst, ATG"
+		author = "ortizimo, Sr. Cyber ForensicsAnalyst"
     description = "Searches for Daxin Advanced Backdoor"
 		date = "2022-03-08"
 		version = "1.0"
